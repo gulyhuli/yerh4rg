@@ -130,7 +130,7 @@ bot.on('message', msg => {
     }
 
     switch(msg.text) {
-      case kb.home.bouqets:
+      case kb.home.pack:
         MainController.sendCallback(msg, 'packaging')
         break
       case kb.home.bots:
