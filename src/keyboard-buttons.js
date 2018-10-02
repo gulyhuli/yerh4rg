@@ -1,6 +1,6 @@
 module.exports = {
   home: {
-    packaging: '🌹 Упаковка',
+    pack: '🌹 Упаковка',
     bots: '💐 Боты',
     ads: '🎁 Продвижение',
     cart: '🛒️ Корзина'
